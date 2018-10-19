@@ -24,7 +24,7 @@ When the price is increased, we make more money for each item sold, but we sell 
 
 This is called a Tradeoff  and in most models identifying the tradeoff beforehand helps us understand what we are looking to Solve.
 
-![](/Z_imgs/15.png)
+![](/z_imgs/15.png)
 
 ##### Example 
 
@@ -33,5 +33,22 @@ Maximising Profit
 Pricing too low yields negative profit, there is a minimum amount of revenue that needs to be generated us to start making  a profit.
 The optimal price is higher than the case for the revenue, it is now 6.5 instead of 5.5.
 
-![](/Z_imgs/16.png)
-![](/Z_imgs/17.png)
+![](/z_imgs/16.png)
+![](/z_imgs/17.png)
+
+### MR = MC
+
+In the examples above we saw that one increase in price increases our profit, while the other decreases it.
+
+How far should we increase the price? Until there is no gain in profit of course
+
+How can we find when this happens? We look for the case when the change in revenue equals the change in cost. Their difference will then be zero.
+
+The  change  in  revenue  is  called  “marginal  revenue”  (MR),  and  change in cost is called “marginal cost” (MC).
+
+### Willingness to pay
+
+Willingness to pay is how much (at most)  would a consumer pay for an additional item she buys.
+
+We find it by calculating the area below the demand curve for each additional item (or fraction of an item).
+
