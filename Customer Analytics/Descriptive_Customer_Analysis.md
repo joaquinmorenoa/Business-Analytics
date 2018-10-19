@@ -4,4 +4,4 @@
   - principles for systematically collecting and interpreting data that can aid decision makers
   
 ### Types of descriptive analysis
-![](z_imgs/01.png)
+![](/z_imgs/01.png)
