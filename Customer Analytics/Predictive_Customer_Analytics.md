@@ -22,3 +22,10 @@ Regression Analysis:
 ![](/z_imgs/11.png)
 
 ![](/z_imgs/12.png)
+
+
+### Probability Models
+
+![](/z_imgs/13.png)
+
+![](/z_imgs/14.png)
